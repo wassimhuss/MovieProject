@@ -1,0 +1,15 @@
+.background{
+    width: 500px;
+    height: 500px;
+    background-size: 100% 100%;
+    margin: auto;
+}
+
+.container{
+    width: 1000px;
+    height: 1000px;
+}
+.name{
+    text-align: left;
+    margin-right:100px ;
+}
