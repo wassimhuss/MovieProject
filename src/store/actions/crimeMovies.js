@@ -1,4 +1,4 @@
-import {GET_CRIME_MOVIES, MOVIES_ERROR} from '../types'
+import {GET_CRIME_MOVIES} from '../types'
 
 import moviesURLs from '../../requests/requests'
 import axios from '../../axios/Axios'

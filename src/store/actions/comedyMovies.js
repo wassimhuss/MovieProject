@@ -1,4 +1,4 @@
-import {GET_COMEDYMOVIES, MOVIES_ERROR} from '../types'
+import {GET_COMEDYMOVIES} from '../types'
 
 import moviesURLs from '../../requests/requests'
 import axios from '../../axios/Axios'

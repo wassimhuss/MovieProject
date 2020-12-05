@@ -1,18 +1,10 @@
 import {
-
   GET_COMEDYMOVIES,
-
 } from '../types'
 
 const initialState = {
  
-  comedyMovies: [],
-  crimeMovies: [],
-  loading: true,
-  showCrimeMovies: '',
-  movieDetails:[]
-
-
+  comedyMovies: []
 }
 
 // eslint-disable-next-line import/no-anonymous-default-export
